@@ -1,0 +1,8 @@
+[project]
+name = "duration-format"
+version = "0.1.0"
+description = "Format seconds as HH:MM:SS"
+requires-python = ">=3.9"
+license = "MIT"
+
+[tool.unittest]
